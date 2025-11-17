@@ -4,4 +4,4 @@ Frederick Jordy (03081250037)
 Grace Wijaya (03081250037)
 Steven Hendri King (030811240020)
 
-Link Repo: https://github.com/GraceWijy/Simple-Calculator
+Link Repo: https://github.com/GraceWijy/CALCULATOR-DASAR-PEMROGRAMAN-z2
