@@ -16,8 +16,8 @@ Public Class Calculator
 
     ' handles all number and operator button clicks to append the button's text to the input string and updates the display
     Private Sub btn_Click(sender As Object, e As EventArgs) Handles btn0.Click, btn1.Click, btn2.Click,
-        btn3.Click, btn4.Click, btn5.Click, btn6.Click, btn7.Click, btn8.Click, btn9.Click,
-        btnadd.Click, btnsub.Click, btnmul.Click, btndiv.Click, btndot.Click
+    btn3.Click, btn4.Click, btn5.Click, btn6.Click, btn7.Click, btn8.Click, btn9.Click,
+    btnadd.Click, btnsub.Click, btnmul.Click, btndiv.Click, btndot.Click
 
         Dim btn As Button = CType(sender, Button)
         Dim val As String = btn.Text
