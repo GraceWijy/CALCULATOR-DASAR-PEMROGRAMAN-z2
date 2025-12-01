@@ -4,8 +4,9 @@ Frederick Jordy (03081250037)
 Grace Wijaya (03081250037)
 Steven Hendri King (030811240020)
 
-<<<<<<< HEAD
+
 Link Repo: https://github.com/GraceWijy/CALCULATOR-DASAR-PEMROGRAMAN-z2
-=======
-Link Repo: https://github.com/GraceWijy/CALCULATOR-DASAR-PEMROGRAMAN-z2
->>>>>>> b6654d793740aa22d6870aee977a77cae43b120d
+
+
+Simple calculator, click on the buttons to generate number on the display
+The display will then calculate the inputted numbers for you
